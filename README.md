@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satyamhub/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3794-reverse-string-prefix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->

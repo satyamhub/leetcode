@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |

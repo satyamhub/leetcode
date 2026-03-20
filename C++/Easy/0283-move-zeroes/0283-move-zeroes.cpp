@@ -8,6 +8,7 @@ public:
             while(pointer<n-1){
                 if(nums[pointer]==0 && nums[pointer+1]!=0){
                     swap(nums[pointer],nums[pointer+1]);
+                
                 }
                 pointer++;
             }

@@ -14,6 +14,7 @@ public:
 
     bool isPalindrom(string s){
         int n=s.size();
+        if(n==1) return true;
         int left=0;
         int right=n-1;
         while(left!=right){

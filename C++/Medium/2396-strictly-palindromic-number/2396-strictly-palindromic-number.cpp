@@ -12,35 +12,34 @@ public:
         return result;
     }
 
-    bool isPalindrom(string s){
+    bool isPalindrome(string s){
         int n=s.size();
         if(n==1) return true;
         int left=0;
         int right=n-1;
-        while(left!=right){
+        while(left<right){
             if(s[left]!=s[right]){
                 return false;
+                break;
             }else{
-                return true;
-            }
             left++;
             right--;
+            }
         }
-        return false;
+        return true;
     }
 
     bool isStrictlyPalindromic(int n) {
         
-        for(int i=2; i<n-2; i++){
+        for(int i=2; i<=n-2; i++){
             string num=inbase(n,i);
-            cout<<num<<endl;
-            if(!isPalindrom(num)){
+            
+            if(!isPalindrome(num)){
                return false;
             }
-            if(i==n-2) return true;
             
         }
-        return false;
+        return true;
         
     }
 };

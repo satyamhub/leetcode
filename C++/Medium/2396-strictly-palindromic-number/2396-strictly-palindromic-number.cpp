@@ -30,15 +30,15 @@ public:
 
     bool isStrictlyPalindromic(int n) {
         
-        for(int i=2; i<n-2; i++){
-            string num=inbase(n,i);
-            cout<<num<<endl;
-            if(!isPalindrom(num)){
-               return false;
-            }
-            if(i==n-2) return true;
+        // for(int i=2; i<n-2; i++){
+        //     string num=inbase(n,i);
+        //     cout<<num<<endl;
+        //     if(!isPalindrom(num)){
+        //        return false;
+        //     }
+        //     if(i==n-2) return true;
             
-        }
+        // }
         return false;
         
     }

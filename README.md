@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |

@@ -1,26 +1,20 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        int mask = 0;
+       int mask=0;
+       for(char c: allowed){
+        mask |=(1<<(c-'a'));
+       }
 
-        for (char c : allowed)
-            mask |= (1 << (c - 'a'));
-
-        int count = 0;
-
-        for (string word : words) {
-            bool ok = true;
-
-            for (char c : word) {
-                if (!(mask & (1 << (c - 'a')))) {
-                    ok = false;
-                    break;
-                }
+       int cnt=0; //counting which is not allowed
+       for(string word: words){
+          for(char ch: word){
+            if((mask>>(ch-'a')&1)==0){
+                cnt++;
+                break;
             }
-
-            if (ok) count++;
-        }
-
-        return count;
+          }
+       }
+       return words.size()-cnt;
     }
 };

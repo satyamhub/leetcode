@@ -11,7 +11,6 @@ public:
             for(int j=i; j<n; j++){
                 char ch=s[j];
                 if(mpp[ch]>0){
-                    i=j-1;
                     break;
                 }
                 mpp[ch]++;

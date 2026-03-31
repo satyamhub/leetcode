@@ -3,14 +3,15 @@ public:
         int subarraySum(vector<int>& nums, int k) {
         unordered_map<int,int> map;
         
-        int sum = 0;
+        int presum = 0;
         int result = 0;
-        map[sum] = 1;
+        map[presum] = 1;
         
         for (int n : nums) {
-            sum += n;
-            result += map[sum - k];
-            map[sum]++;
+            presum += n;
+            int remove=presum-k;
+            result += map[remove];
+            map[presum]++;
         }
         
         return result;

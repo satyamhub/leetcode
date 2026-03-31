@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0263-ugly-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Counting

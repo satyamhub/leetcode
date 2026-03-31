@@ -5,7 +5,7 @@ public:
         int column=matrix[0].size();
 
         //revrse
-        for(int i=0; i<row/2; i++){
+        for(int i=0; i<(row/2); i++){
             for(int j=0; j<column; j++){
                 swap(matrix[i][j],matrix[row-i-1][j]);
             }

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1470-shuffle-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

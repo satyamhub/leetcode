@@ -12,9 +12,6 @@
 }
 class Solution {
 public:
-
-   
-
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> pascal(0);
         for(int i=0; i<numRows; i++){

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |

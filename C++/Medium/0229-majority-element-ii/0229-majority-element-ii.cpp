@@ -4,9 +4,10 @@ public:
         int n = nums.size();
         unordered_map<int, int> mpp;
         vector<int> ans;
+        int mini=(n/3)+1;
         for (int num : nums) {
             mpp[num]++;
-            if (mpp[num] > n / 3 && count(ans.begin(), ans.end(), num) == 0) {
+            if (mpp[num]==mini) {
                 ans.push_back(num);
             }
         }

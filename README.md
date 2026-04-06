@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satyamhub/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |

@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
@@ -6,29 +7,27 @@ public:
         //     nums1[m+i]=nums2[i];
         // }
         // sort(nums1.begin(),nums1.end());
- 
-       //------Better------------
-        int p1=0;
-        int p2=0;
 
-        while(p1<m+n && p2<n){
-            if(p1<m){
-                if(nums1[p1]<=nums2[p2]){
-                    p1++;
-                }else{
-
-                    swap(nums1[p1],nums2[p2]);
-                    p1++;
-                    sort(nums2.begin(),nums2.end());
-                   
-                    
-                }
+        //------Better------------
+        //
+        if(!nums2.empty()){
+            if(nums2[0]>=nums1[0]){
+            nums1[0]=nums2[0];
             }
-            //if(p1==m-1) p2=0;
-            if(p1>=m && p2<n){
-                swap(nums1[p1],nums2[p2]);
-                p1++;
-                p2++;
+        }
+        int last1 = m + n - 1;
+        int last2 = n - 1;
+        int middle1 = m - 1;
+        while (middle1 >= 0 && last2 >= 0) {
+            if (nums1[middle1] >= nums2[last2] && last2 >= 0) {
+                nums1[last1] = nums1[middle1];
+                middle1--;
+                last1--;
+            }
+            if (nums2[last2] > nums1[middle1] && last2 >= 0) {
+                nums1[last1] = nums2[last2];
+                last2--;
+                last1--;
             }
         }
         

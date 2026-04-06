@@ -16,10 +16,15 @@ public:
                 if(nums1[p1]<=nums2[p2]){
                     p1++;
                 }else{
+
                     swap(nums1[p1],nums2[p2]);
                     p1++;
+                    sort(nums2.begin(),nums2.end());
+                   
+                    
                 }
             }
+            //if(p1==m-1) p2=0;
             if(p1>=m && p2<n){
                 swap(nums1[p1],nums2[p2]);
                 p1++;

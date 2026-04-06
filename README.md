@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
+| [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

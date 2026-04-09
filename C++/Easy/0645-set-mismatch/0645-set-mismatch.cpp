@@ -37,6 +37,7 @@ so, (x+y)(x-y)=24
 
 
 */
+//we can do with bit manipulation
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {

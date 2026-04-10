@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satyamhub/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |
 ## Brainteaser
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -158,4 +162,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->

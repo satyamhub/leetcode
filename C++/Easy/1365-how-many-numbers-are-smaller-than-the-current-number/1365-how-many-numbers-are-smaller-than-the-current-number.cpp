@@ -3,6 +3,9 @@
 I will use two nested loop and check if
 nums[i]>nums[j] cnt++
 and i will add cnt in vector.
+
+TC:O(N^2)
+SC:(N) for answer
 */
 
 /*----Optimal
@@ -11,7 +14,10 @@ Then i will iterate in nums and update the count of numbers in
 nums in array.
 then i will do cummulative sum of current index in array with
 previous count sum.
-then i will
+then i will insert value of arr[nums[i]-1] in answer.
+
+TC:O(N+101)
+SC:O(101)  
 
 
 */

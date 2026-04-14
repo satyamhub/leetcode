@@ -63,9 +63,7 @@ public:
 
     int search(vector<int>& nums, int target) {
         //int ansBrute=brute(nums,target);
-        //int ansBetter=better(nums,target);
-        int ansOptimal=optimal(nums, 0, nums.size()-1, target);
-        
-        return ansOptimal;
+          return better(nums,target);
+        //  int  optimal(nums, 0, nums.size()-1, target);
     }
 };

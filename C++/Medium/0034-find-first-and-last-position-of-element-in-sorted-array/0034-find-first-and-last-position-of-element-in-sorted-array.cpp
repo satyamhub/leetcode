@@ -57,11 +57,11 @@ public:
                 high=mid;
                 start=low;
                 end=high;
-                while(nums[low-1]==target){
+                while(low>0 && nums[low-1]==target){
                     low--;
                     start=low;
                 }
-                while(nums[high+1]==target){
+                while(high<n-1 && nums[high+1]==target){
                     high++;
                     end=high;
                 }

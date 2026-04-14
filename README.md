@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0493-reverse-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0704-binary-search/) | Easy |

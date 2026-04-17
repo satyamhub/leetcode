@@ -21,13 +21,13 @@ public:
 
         while(low<=high){
             int mid=low+(high-low)/2;
-            mini=min(nums[mid],mini);
 
-            //(left half is sorted)
-            if(nums[low]<=nums[mid] && nums[mid]>nums[high]){
+            if(nums[low]<=nums[mid]){
+                mini=min(nums[low],mini);
                 low=mid+1;
             }else{
                 high=mid-1;
+                mini=min(nums[mid],mini);
             }
         }
         return mini;

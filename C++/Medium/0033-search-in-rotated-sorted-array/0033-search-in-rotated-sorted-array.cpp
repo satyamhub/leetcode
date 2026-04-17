@@ -7,7 +7,13 @@ SC:O(1)
 
 
 ----Optimal-----
+I will use a binary search and if left array is sorted, 
+And target is less than mid, and greater than low i will do high=mid-1;
+If target is greater than mid and smaller than high i will do low = mid+1;
+else high=mid-1;
 
+TC:O(log n)
+SC:O(1)
 */
 
 

@@ -1,3 +1,19 @@
+/*
+----Optimal---
+I will do binary search all same as search in rotated sorted array 1.
+if(low=mid=high) shrink the checks.
+low++
+high--
+continue
+
+TC:O(N/2) worst case.
+TC:O(log n) avg case.
+SC:O(1)
+
+*/
+
+
+
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {

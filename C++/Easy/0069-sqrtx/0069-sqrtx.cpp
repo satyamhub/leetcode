@@ -1,13 +1,11 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long long i=0;
+        long long i=1;
 
-        while(i*i<x){
+        while(i*i<=x){
             i++;
-            long long sqr= i*i;
-            if(sqr>x) return (int)i-1;
         }
-        return (int)i;
+        return i-1;
     }
 };

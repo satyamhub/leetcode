@@ -7,7 +7,12 @@ SC:O(1)
 
 /*
 ------Optimal----
-I will use binary Search
+I will use binary Search. IF mid is even i will check if mid and mid+1 are equal,then single element is on right of mid so low=mid+1;
+similarly, if mid is odd then i will check if mid and mid-1 are equal, then single elemnt is also on right of mid so low=mid+1.
+
+Else high=mid;
+
+When low=mid=high return nums[mid].
 
 
 */

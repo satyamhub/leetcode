@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1470-shuffle-the-array/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers

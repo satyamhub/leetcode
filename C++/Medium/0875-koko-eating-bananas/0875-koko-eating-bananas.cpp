@@ -1,3 +1,14 @@
+/*
+----Optimal----
+I will do binary search from 1 to max element in piles.
+I will check if mid is the k.
+TC:O(Nlog N)
+SC:O(1)
+
+
+*/
+
+
 class Solution {
 public:
     bool canFinish(const vector<int>& piles, int h, int k) {

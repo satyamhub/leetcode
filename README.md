@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |

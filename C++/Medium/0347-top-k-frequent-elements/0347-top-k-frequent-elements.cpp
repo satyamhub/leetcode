@@ -1,9 +1,11 @@
 /*
-Approach:
+Approach 1:
 - Count the frequency of each element using a hash map.
 - Store the data as {frequency, element} pairs in a vector.
 - Sort the vector in descending order of frequency.
 - Pick the top k elements and return their corresponding values.
+- TC:O(N logN) Worst Case
+- SC:O(N) Worst Case
 */
 
 

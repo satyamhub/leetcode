@@ -1,6 +1,8 @@
 /*
 I will use hash map to store the frequency of each element.
-Then i will return the ans.
+Then i will insert the map in a 2d vector =[count][element]
+Then I will sort the 2d vector according to their freq.
+I will insert the count in ans vector from end;
 
 
 */

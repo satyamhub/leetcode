@@ -1,3 +1,13 @@
+/*
+Approach 1:
+-Binary Search from Max weight to sum of all weights.
+-low=max weight
+-high=sum of all weights
+-TC:O(Nlog(Sum-Max Element))
+-SC:O(1)
+*/
+
+
 class Solution {
 public:
     bool possible(vector<int>& weights, int mid, int days){

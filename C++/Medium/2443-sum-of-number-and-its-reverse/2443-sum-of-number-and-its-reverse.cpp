@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool sumOfNumberAndReverse(int num) {
-        if(num==0) return true;
+        //if(num==0) return true;
 
         for(int i=0; i<=num; i++){
             int rev=0;

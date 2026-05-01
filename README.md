@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |

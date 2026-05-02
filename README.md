@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |

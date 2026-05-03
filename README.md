@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1816-truncate-sentence/) | Easy |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |

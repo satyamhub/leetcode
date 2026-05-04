@@ -1,3 +1,17 @@
+/*
+Appraoch:
+-Low=Max element and High=Sum of all elements.
+-Then mid=(low+high)/2, and will check how many subarray can be made
+-using mid as max subarray sum.
+-if number of subarray>k, i will do low=mid+1
+-if number of subarray<=k, i will do high=mid-1
+-then i will return low as ans.
+
+TC:O(Sum-maxElement)+O(N)
+SC:(1)
+*/
+
+
 class Solution {
 public:
     int nSubarray(vector<int>& nums, int mid){

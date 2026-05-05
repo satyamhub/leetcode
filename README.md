@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

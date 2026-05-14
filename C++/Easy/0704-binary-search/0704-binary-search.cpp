@@ -13,7 +13,7 @@ if(target==nums[mid]) return mid.
 else if(target>nums[mid]) low=mid+1;
 else :  high=mid-1;
 
-TC:O(Log N)
+TC:O(Log N base 2)
 SC:O(1)
 */
 

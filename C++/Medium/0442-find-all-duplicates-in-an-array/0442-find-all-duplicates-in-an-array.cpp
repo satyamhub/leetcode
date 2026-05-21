@@ -16,6 +16,14 @@ public:
         // return ans;
 
         //----Optimal----
+        /*
+        Index position ko negative krdiya hu
+        Jaise 1st number 4 hai to 4th index pe jo hoga usko negative krdiya hu
+        Fir aage badhte badhte agar firse 4 aya to 4th index pe check krungaa ki wo negative hai phle se to samjh jaunga ki wo phle v aya thaa
+        To usko answer me push krdunga
+        Aur agar negative nhi hai to usko negative bnaa dunga
+        */
+        
         int n=nums.size();
         vector<int>ans;
 

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
+| [2235-add-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |

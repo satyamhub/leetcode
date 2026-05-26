@@ -1,3 +1,13 @@
+/*
+Brute---
+1. I will find the smallest string size.
+2. I will check upto which its all string matches.
+3. Then I will push back that char in ans string.
+TC:O(N)+O(N*size of common prefix)
+SC:O(1)
+*/
+
+
 #include<bits/stdc++.h>
 class Solution {
 public:

@@ -13,28 +13,36 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         int n=strs.size();
-        if(n==1)    return strs[0];
-        // string ans="";
-        // int mini=INT_MAX;
+        string ans="";
+        int mini=INT_MAX;
 
-        // for(int i=0; i<n; i++){
-        //     if(strs[i].size()<mini){
-        //         mini=strs[i].size();
-        //     }
-        // }
+        for(int i=0; i<n; i++){
+            // if(strs[i].size()<mini){
+            //     mini=strs[i].size();
+            // }(
+            int len=strs[i].size();
+            mini=min(mini, len);
+        }
         
-        int minIdx=INT_MAX;
-        for(int i=1; i<n; i++){
-            int idx=0;
-            int j;
-            for( j=0; j<strs[i].size(); j++){
-                if(strs[0][idx] != strs[i][j]){
+        int ptr=0;
+        int flag=1;
+        while(ptr<mini){
+            for(int i=0; i<n-1; i++){
+                char ch1=strs[i][ptr];
+                char ch2=strs[i+1][ptr];
+                if(ch1!=ch2){
+                    flag=0;
                     break;
                 }
-                idx++;
             }
-            minIdx=min(minIdx, j);
+            if(flag==1){
+                ans.push_back(strs[0][ptr]);
+                ptr++;
+            }else{
+                break;
+            }
+
         }
-        return minIdx==INT_MAX ? "" :strs[0].substr(0, minIdx);
+        return ans;
     }
 };

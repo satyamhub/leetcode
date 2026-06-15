@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1816-truncate-sentence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |

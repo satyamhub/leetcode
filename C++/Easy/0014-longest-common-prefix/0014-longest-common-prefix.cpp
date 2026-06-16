@@ -1,47 +1,16 @@
-/*
-Brute---
-1. I will find the smallest string size.
-2. I will check upto which its all string matches.
-3. Then I will push back that char in ans string.
-TC:O(N)+O(N*size of common prefix)
-SC:O(1)
-*/
-
-
-#include<bits/stdc++.h>
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
+        sort(strs.begin(), strs.end());
         int n=strs.size();
-        string ans="";
-        int mini=INT_MAX;
-
-        for(int i=0; i<n; i++){
-            // if(strs[i].size()<mini){
-            //     mini=strs[i].size();
-            // }(
-            int len=strs[i].size();
-            mini=min(mini, len);
-        }
-        
         int ptr=0;
-        int flag=1;
-        while(ptr<mini){
-            for(int i=0; i<n-1; i++){
-                char ch1=strs[i][ptr];
-                char ch2=strs[i+1][ptr];
-                if(ch1!=ch2){
-                    flag=0;
-                    break;
-                }
-            }
-            if(flag==1){
-                ans.push_back(strs[0][ptr]);
-                ptr++;
-            }else{
+        string ans;
+        while(ptr<strs[0].size()){
+            if(strs[0][ptr]!=strs[n-1][ptr]){
                 break;
             }
-
+            ans.push_back(strs[0][ptr]);
+            ptr++;
         }
         return ans;
     }

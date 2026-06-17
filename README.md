@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |

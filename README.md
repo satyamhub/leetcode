@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satyamhub/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Trie
 | Problem Name | Difficulty |

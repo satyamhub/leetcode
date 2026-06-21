@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->

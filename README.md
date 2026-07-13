@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -327,5 +328,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->

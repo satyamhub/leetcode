@@ -1,3 +1,20 @@
+/*
+Brute:
+1. I will insert the value of each node in an array.
+2. Then I will reverse the array.
+3. Then I will re- iterate the link list and replace the value with
+    array value.
+
+TC:O(2N)+O(N/2)
+SC:O(N)
+
+
+
+*/
+
+
+
+
 #include<bits/stdc++.h>
 /**
  * Definition for singly-linked list.
@@ -9,6 +26,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {

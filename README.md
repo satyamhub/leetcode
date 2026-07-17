@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satyamhub/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -330,4 +331,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->

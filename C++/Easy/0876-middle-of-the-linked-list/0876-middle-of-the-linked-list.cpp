@@ -1,3 +1,13 @@
+/*
+Approach:
+1. One pointer will cover 1 step while other will cover 2 step
+   at a time, so when other pointer goes to end then the 
+   another pointer will be at middle.
+
+
+*/
+
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

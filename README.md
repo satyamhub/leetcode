@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->

@@ -8,23 +8,71 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
+    
+    ListNode* findMiddle(ListNode* head){
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
+    }
+
+      ListNode* mergeTwoLists(ListNode *l1, ListNode *l2) {
+        ListNode *ptr = new ListNode(0);
+        ListNode *curr = ptr;
+        
+        while(l1 != NULL && l2 != NULL)
+        {
+            if(l1->val <= l2->val)
+            {
+                curr -> next = l1;
+                l1 = l1 -> next;
+            }
+            else
+            {
+                curr -> next = l2;
+                l2 = l2 -> next;
+            }
+        
+        curr = curr ->next;
+        
+        }
+        
+        //for unqual length linked list
+        
+        if(l1 != NULL)
+        {
+            curr -> next = l1;
+            l1 = l1->next;
+        }
+        
+        if(l2 != NULL)
+        {
+            curr -> next = l2;
+            l2 = l2 ->next;
+        }
+        
+        return ptr->next;
+    }
+
+   
     ListNode* sortList(ListNode* head) {
-        vector<int>arr;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
+        if(head==NULL || head->next==NULL){
+            return head;
         }
-        temp=head;
-        sort(arr.begin(), arr.end());
-        int i=0;
-        while(temp!=NULL){
-            temp->val=arr[i];
-            temp=temp->next;
-            i++;
-        }
-        return head;
+        ListNode* middle=findMiddle(head);
+        ListNode* right=middle->next;
+        middle->next=NULL;
+        ListNode* left=head;
+        
+        left=sortList(left);
+        right=sortList(right);
+        return mergeTwoLists(left, right);
+
     }
 };

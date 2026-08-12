@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satyamhub/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 ## Binary Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0148-sort-list/) | Medium |

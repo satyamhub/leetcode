@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |

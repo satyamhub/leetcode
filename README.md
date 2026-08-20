@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |

@@ -1,43 +1,31 @@
-/*
-Approach 1:
-- Count the frequency of each element using a hash map.
-- Store the data as {frequency, element} pairs in a vector.
-- Sort the vector in descending order of frequency.
-- Pick the top k elements and return their corresponding values.
-- TC:O(N logN) Worst Case
-- SC:O(N) Worst Case
-*/
-
-
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> mpp;
+        int n=nums.size();
+        unordered_map<int,int>mpp;
+        for(int i=0; i<n; i++){
+            mpp[nums[i]]++;
+        }
         
-        // Count frequency
-        for (int num : nums) {
-            mpp[num]++;
+        int m=mpp.size();
+        vector<vector<int>> count(m, vector<int>(2, 0));
+        int i=0;
+        for(auto it:mpp){
+            int el=it.first;
+            int freq=it.second;
+            count[i][0]=freq;
+            count[i][1]=el;
+            i++;
         }
 
-        vector<vector<int>> count;
+        sort(count.begin(), count.end());
 
-        // Store as {freq, element}
-        for (auto it : mpp) {
-            count.push_back({it.second, it.first});
-        }
-
-        // Sort in descending order of frequency
-        sort(count.begin(), count.end(), [](auto &a, auto &b){
-            return a[0] > b[0];
-        });
-
-        vector<int> ans;
-
-        // Take top k elements
-        for (int i = 0; i < k; i++) {
+        vector<int>ans;
+        for(int i=m-1; i>=0; i--){
             ans.push_back(count[i][1]);
+            k--;
+            if(k==0) break;
         }
-
         return ans;
     }
 };

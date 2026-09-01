@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## String Matching
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->

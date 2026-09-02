@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0086-partition-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |

@@ -8,6 +8,19 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+/*
+Approach:
+1. count the length of the LL.
+2. If k is multiple of length then return head.
+3. Else k=k%lenght.
+4. join tail to head.
+5. now traverse till length-k from start.
+6. break the link.
+7. return newHead.
+
+
+*/
 class Solution {
 public:
     ListNode* findnthNode(ListNode* temp, int k){

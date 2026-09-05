@@ -8,6 +8,14 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+/*
+Approach:
+1. There is be three pointers curr, prev and front.
+2. curr next become prev.
+3. prev becomes curr
+4. curr goes to front
+
+*/
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {

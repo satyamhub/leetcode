@@ -14,6 +14,16 @@ public:
 };
 */
 
+/*
+Approach:
+1. Create CopyNode in between two original nodes.
+2. now reiterate and copyNode->random=original->random->next;
+3. now creat a dummy Node and point to head->next;
+4. now break the links of original and copyNodes
+5. return dummyNode next
+
+*/
+
 class Solution {
 public:
     Node* copyRandomList(Node* head) {

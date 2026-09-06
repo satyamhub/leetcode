@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0086-partition-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0148-sort-list/) | Medium |

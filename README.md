@@ -405,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->

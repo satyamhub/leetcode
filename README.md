@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0118-pascals-triangle/) | Easy |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |

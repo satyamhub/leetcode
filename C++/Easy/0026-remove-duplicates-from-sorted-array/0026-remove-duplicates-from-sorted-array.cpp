@@ -1,22 +1,19 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        int n=nums.size();
-        int left=0;   //Unique Element
-        int right=0;  //Duplicate Element
-        int ans=1;
-        
-
-        while(left<=right && right<n){
-            if(nums[left]==nums[right]){
+    int removeDuplicates(vector<int>& arr) {
+            int n = arr.size();
+            int left = 0;
+            int right = 0;
+            int index=0;
+            while(left<=right && right<n){
+            if(arr[left]>=arr[right]){
                 right++;
             }else{
+                swap(arr[left+1], arr[right]);
                 left++;
-                swap(nums[left],nums[right]);
-                right++;
-                ans++;
             }
+            
         }
-        return ans;
+        return left+1;
     }
 };

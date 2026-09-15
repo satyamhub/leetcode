@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |

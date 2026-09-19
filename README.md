@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |

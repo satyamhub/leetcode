@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

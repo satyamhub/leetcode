@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1903-largest-odd-number-in-string/) | Easy |

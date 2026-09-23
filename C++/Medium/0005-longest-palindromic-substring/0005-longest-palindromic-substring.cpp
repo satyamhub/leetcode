@@ -1,37 +1,49 @@
 class Solution {
 public:
-    bool check_palindrome(string &s, int left, int right){
-        while(left<=right){
-            if(s[left++]!=s[right--]){
-                return false;
-            }
-            
-        }
-        return true;
+    vector<vector<int>> dp;
+
+    bool check_palindrome(string &s, int left, int right) {
+
+        if (left >= right)
+            return true;
+
+        if (dp[left][right] != -1)
+            return dp[left][right];
+
+        if (s[left] != s[right])
+            return dp[left][right] = false;
+
+        return dp[left][right] =
+            check_palindrome(s, left + 1, right - 1);
     }
+
     string longestPalindrome(string s) {
-        int n=s.size();
-        if(n<=1) return s;
 
-        int start=0;
-        int end=0;
+        int n = s.size();
 
-        int size=0;
+        if (n <= 1)
+            return s;
 
-        for(int i=0; i<n; i++){
-            for(int j=i; j<n; j++){
-                int left=i;
-                int right=j;
-                int curr_size=right-left+1;
-                if(curr_size>=size && check_palindrome(s, left, right)){
-                    size=curr_size;
-                    start=left;
-                    end=right;
+        dp.assign(n, vector<int>(n, -1));
+
+        int start = 0;
+        int maxLen = 1;
+
+        for (int i = 0; i < n; i++) {
+
+            for (int j = i; j < n; j++) {
+
+                int currLen = j - i + 1;
+
+                if (currLen > maxLen &&
+                    check_palindrome(s, i, j)) {
+
+                    start = i;
+                    maxLen = currLen;
                 }
-
             }
         }
-        return s.substr(start, end-start+1);
-        
+
+        return s.substr(start, maxLen);
     }
 };

@@ -431,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/satyamhub/leetcode/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

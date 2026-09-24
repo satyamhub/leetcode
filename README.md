@@ -435,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/satyamhub/leetcode/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/satyamhub/leetcode/tree/main/Bash/Easy/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->

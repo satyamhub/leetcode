@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/satyamhub/leetcode/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
+| [0584-find-customer-referee](https://github.com/satyamhub/leetcode/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/satyamhub/leetcode/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Shell
 | Problem Name | Difficulty |

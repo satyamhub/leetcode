@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |

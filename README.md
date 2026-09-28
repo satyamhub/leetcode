@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0086-partition-list/) | Medium |

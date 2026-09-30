@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

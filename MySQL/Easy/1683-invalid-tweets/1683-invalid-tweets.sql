@@ -1,6 +1,5 @@
 # Write your MySQL query statement below
-SELECT
+select
 tweet_id
-FROM
-Tweets
-Where (length(content)>15);
+from Tweets
+Where length(tweets.content)>15

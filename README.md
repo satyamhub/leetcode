@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3467-transform-array-by-parity/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

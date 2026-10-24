@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/satyamhub/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/satyamhub/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/satyamhub/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1684-count-the-number-of-consistent-strings/) | Easy |

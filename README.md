@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/satyamhub/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/satyamhub/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/satyamhub/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0190-reverse-bits/) | Easy |

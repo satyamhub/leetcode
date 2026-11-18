@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamhub/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0455-assign-cookies/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Divide and Conquer
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1114-print-in-order/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0704-binary-search/) | Easy |
+| [0860-lemonade-change](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Divide and Conquer

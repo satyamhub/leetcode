@@ -1,12 +1,20 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        //---brute---
-        if (n == 0)
-            return 1;
+    long double solve(long double x, long long n) {
+        if (n == 0) return 1.0L;
+
         if (n < 0) {
-            return 1 / x * myPow(1 / x, -(n + 1));
+            return solve(1.0L / x, -n);
         }
-        return (n % 2 == 0) ? myPow(x * x, n / 2) : x * myPow(x * x, n / 2);
+
+        if (n % 2 == 0) {
+            return solve(x * x, n / 2);
+        }
+
+        return x * solve(x * x, (n - 1) / 2);
+    }
+
+    double myPow(double x, int n) {
+        return (double)solve((long double)x, (long long)n);
     }
 };

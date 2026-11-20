@@ -1,31 +1,22 @@
 class Solution {
 public:
-    int m;
-    void solve(int left, int right, string &temp, vector<string>& res){
+    vector<string> generateParenthesis(int n) {
+        vector<string>ans;
+        fun(ans, n, 0, 0, "");
+        return ans;
+    }
 
-        if(temp.size() == 2*m){
-            if(left-right != 0)  return;
-            res.push_back(temp);
+    void fun(vector<string>&ans, int n, int open, int close, string curr_str){
+        //base
+
+        if(curr_str.size()==n*2){
+            ans.push_back(curr_str);
             return;
         }
 
-        temp.push_back('(');
-        solve(left+1, right, temp, res);
-        temp.pop_back();
+        if(open<n)fun(ans, n, open+1, close, curr_str+"(");
+        if(close<open) fun(ans, n, open, close+1, curr_str+")");
 
-        if(right < left){
-            temp.push_back(')');
-            solve(left, right+1, temp, res);
-            temp.pop_back();
-        }
-    }
-    vector<string> generateParenthesis(int n) {
-        m=n;
-        vector<string> res;
 
-        string temp="";
-        solve(0, 0, temp, res);
-
-        return res;
     }
 };

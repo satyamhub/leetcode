@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1922-count-good-numbers/) | Medium |
 | [2235-add-two-integers](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/2443-sum-of-number-and-its-reverse/) | Medium |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satyamhub/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/satyamhub/leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

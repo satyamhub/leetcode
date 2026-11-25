@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/satyamhub/leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satyamhub/leetcode/tree/main/C++/Medium/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/satyamhub/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
